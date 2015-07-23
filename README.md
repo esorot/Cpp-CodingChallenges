@@ -7,4 +7,6 @@ or may not have seem "obvious." Problems will be organized based on where I foun
 
 1)ACM
 
+2)Codility
+
 2)ProjectEuler
